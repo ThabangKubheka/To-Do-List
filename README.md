@@ -26,7 +26,7 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-react.git
+   git clone https://github.com/ThabangKubheka/To-Do-List
    ```
 
 2. Change into the project directory:
@@ -68,4 +68,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Developer
-1.Thabang Kubheka
+1.Thabang Kubheka (https://github.com/ThabangKubheka)
